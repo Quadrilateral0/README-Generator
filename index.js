@@ -81,7 +81,7 @@ ${data.description}
 - [Installation](#installation)
 - [Tests, Reporting, and Issues](#tests-reporting-and-issues)
 - [Contributing](#contributing)
-- [Questions](#Questions)
+- [Questions](#questions)
 - [License](#license)
         
 ## Usage

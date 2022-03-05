@@ -22,7 +22,7 @@ and invoke the program by using:
 node index.js
 ```
 
-![Video demo of completed project](assets/images/readme-demo.gif)
+[![Video demo of completed project](images/readme-demo.png)](https://youtu.be/cKuf03urrHA)
 
 
 ## User Story
