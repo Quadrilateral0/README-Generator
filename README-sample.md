@@ -25,7 +25,7 @@ There are no known issues with this application. Report any issues to report@me.
 You can contribute by visiting my GitHub or contacting contribute@me.com.
         
 ## Questions
-For any questions, contact me through my [GitHub](www.github.com/Quadrilateral0) or send me an [email](me@me.com).
+For any questions, contact me through my [GitHub](https://github.com/Quadrilateral0) or send me an [email](me@me.com).
         
 ## License
 Copyright (c) 2022 Amanda Dulaney via Massachusetts Institute of Technology (MIT)
