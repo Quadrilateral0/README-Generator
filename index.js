@@ -74,6 +74,8 @@ const README = `# ${data.title}
 ## Description
 ${data.description}
 
+![License](https://img.shields.io/badge/license-${data.license.toLowerCase().split(' ').join('')}-green)
+
 ## Table of Contents
 - [Usage](#usage)
 - [Installation](#installation)
@@ -101,8 +103,9 @@ For any questions, contact me through my [GitHub](www.github.com/${data.github})
 Copyright (c) ${data.year} ${data.name} via ${data.license}`
 
         //Write README file
-        const filename = `README.md`;
+        const filename = `README-sample.md`;
 
         fs.writeFile(filename, README, (err) =>
         err ? console.log(err) : console.log('Success!'));
     })
+    

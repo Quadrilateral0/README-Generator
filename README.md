@@ -4,15 +4,25 @@ For this project, I created a command-line application that dynamically generate
 
 ## Table of Contents
 - [Usage](#usage)
-- [User Story](#userstory)
-- [Acceptance Criteria](#acceptancecriteria)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
 - [Credits](#credits)
 - [License](#license)
 
 ## Usage
-Visit my [the repo here](https://quadrilateral0.github.io/ACD-Portfolio/) and see below for a video demo.
+Visit my [repo here](https://github.com/Quadrilateral0/README-Generator) and see below for a video demo.
 
-![Video demo of completed project](assets/images/screenshot-portfolio.png)
+The application requires [Node.js](https://nodejs.dev/learn/introduction-to-nodejs). Install the necessary dependencies in your terminal using the following command:
+```bash
+npm i
+```
+and invoke the program by using:
+
+```bash
+node index.js
+```
+
+![Video demo of completed project](assets/images/readme-demo.gif)
 
 
 ## User Story
@@ -46,6 +56,7 @@ THEN I am taken to the corresponding section of the README
 ## Credits
 A thanks to my resources:
 - [Inquirer package](https://www.npmjs.com/package/inquirer)
+- [Node.js](https://nodejs.dev/learn/introduction-to-nodejs) 
 - [Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
