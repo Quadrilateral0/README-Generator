@@ -97,7 +97,7 @@ ${data.report}
 ${data.contribute}
         
 ## Questions
-For any questions, contact me through my [GitHub](https://github.com/${data.github}) or send me an [email](${data.email}).
+For any questions, contact me through my [GitHub](https://github.com/${data.github}) or send me an [email](mailto:${data.email}?subject=[GitHub]).
         
 ## License
 Copyright (c) ${data.year} ${data.name} via ${data.license}`
