@@ -80,7 +80,7 @@ ${data.description}
 - [Usage](#usage)
 - [Installation](#installation)
 - [Tests, Reporting, and Issues](#tests-reporting-and-issues)
-- [Contributions](#contributions)
+- [Contributing](#contributing)
 - [Questions](#Questions)
 - [License](#license)
         
@@ -93,7 +93,7 @@ ${data.install}
 ## Tests, Reporting, and Issues
 ${data.report}
 
-## Contributions
+## Contributing
 ${data.contribute}
         
 ## Questions
